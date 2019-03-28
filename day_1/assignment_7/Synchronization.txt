@@ -1,0 +1,1 @@
+The synchronized keyword is used in deposit and withdraw methods with changes in assignment_6.
